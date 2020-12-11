@@ -1,11 +1,11 @@
-# go-santacipher
+# go-santacypher
 
-Santa Cipher for Go
+Santa Cypher for Go
 
 ## Usage
 
 ```go
-fmt.Println(santacipher.ToHoHoHo("Hello Gopher"))
+fmt.Println(santacypher.ToHoHoHo("Hello Gopher"))
 // HoHoHoHo🎅Ho🎅HoHOHoHo🎅HoHOHoHo🎅HOHOHO🎅 HOHOHo🎅HOHOHO🎅HoHOHOHo🎅HoHoHoHo🎅Ho🎅HoHOHo🎅
 ```
 
