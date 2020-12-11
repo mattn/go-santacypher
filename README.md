@@ -5,7 +5,8 @@ Santa Cipher for Go
 ## Usage
 
 ```go
-santacipher.ToHoHoHo(s)
+fmt.Println(santacipher.ToHoHoHo("Hello Gopher"))
+// HoHoHoHo🎅Ho🎅HoHOHoHo🎅HoHOHoHo🎅HOHOHO🎅 HOHOHo🎅HOHOHO🎅HoHOHOHo🎅HoHoHoHo🎅Ho🎅HoHOHo🎅
 ```
 
 ## License
