@@ -1,4 +1,4 @@
-package santacipher
+package santacypher
 
 import (
 	"testing"
